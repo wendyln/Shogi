@@ -1,0 +1,12 @@
+Hello! This file provides the steps required in order to get our system running.
+
+If you are on a fresh opam switch, run the following command in the root directory
+> make setup
+
+This will install all the necessary packages we need and also run dune build.
+
+Next, in the terminal,run the following command:
+> make play
+
+This will start the game, have fun!
+
