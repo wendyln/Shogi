@@ -1,10 +1,4 @@
-# WARP
-Team Members:
+## SHOGI 
 
-Robert HaoJia Wang hw533
-
-Amin Benalla mab579
-
-Wendy Nuo Liang wnl6
-
-Parth Sarkar ps679
+Japanese Chess Shogi game made with OCaml
+Run "dune build" and "make play" to start the game.
